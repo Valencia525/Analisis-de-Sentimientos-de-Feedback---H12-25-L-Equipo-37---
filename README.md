@@ -1,5 +1,5 @@
 # 📘 Proyecto: Sistema de Análisis de Sentimiento para Reseñas en Español  
-**Repositorio:** `sentiment-api`
+**Repositorio:** `[sentiment-api`](https://github.com/Valencia525/Analisis-de-Sentimientos-de-Feedback---H12-25-L-Equipo-37---)
 
 ---
 
